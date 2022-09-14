@@ -66,7 +66,7 @@ const displayEntries=()=>{
     <th>Email</th>
     <th >Password</th>
     <th>Dob</th>
-    <th>Are terms Accepted?</th>
+    <th>Accepted terms?</th>
     </tr>
     ${tableEntries}</table>`;
     let details=document.getElementById("entries");
